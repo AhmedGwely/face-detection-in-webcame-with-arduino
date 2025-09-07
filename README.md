@@ -58,6 +58,18 @@ Run the project in different modes:
 python face_detection.py --mode image --filepath path/to/image.jpg
 ```
 
+##2️⃣ Video Mode
+```bash
+python face_detection.py --mode video --filepath path/to/video.mp4
+```
+
+## 3️⃣ Webcam Mode (default)
+```bash
+python face_detection.py --mode webcam
+```
+
+Tip: Exit webcam mode by pressing X.
+
 
 # 👨‍💻 Author
 
